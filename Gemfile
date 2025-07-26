@@ -72,3 +72,5 @@ gem "rails-i18n"
 
 
 gem "aws-sdk-s3", require: false
+
+gem "dockerfile-rails", ">= 1.7", group: :development
